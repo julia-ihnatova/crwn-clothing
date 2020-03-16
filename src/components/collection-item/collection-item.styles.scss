@@ -14,20 +14,20 @@
     margin-bottom: 5px;
   }
 
-  .custom-button{
+  .custom-button {
     width: 80%;
     opacity: 0.7;
     position: absolute;
-    top: 225px;
+    top: 255px;
     display: none;
   }
 
-  &:hover{
-    .image{
+  &:hover {
+    .image {
       opacity: 0.8;
     }
 
-    .custom-button{
+    .custom-button {
       opacity: 0.85;
       display: flex;
     }
